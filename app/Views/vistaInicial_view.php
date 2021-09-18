@@ -21,7 +21,9 @@
 							<div class="col-md-8 header-w3right"> 
 								<h3 class="agileits-title">ACERCA DE MI</h3> 
 								<div class="profile-agileinfo"> 
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet sem sit amet dolor luctus pellentesque. Pellentesque eleifend tellus at interdum elementum. Nam egestas molestie elit. Vivamus sed accumsan quam, a mollis magna. Nam aliquet eros eget sapien consequat tincidunt at vel nibh. Duis ut turpis mi. Duis nec scelerisque urna, sit amet varius arcu. Aliquam aliquet sapien quis mauris semper suscipit. Maecenas pharetra dapibus posuere. </p>
+									<p>Soy una persona a la que le gusta llevar una buena conversacion con las personas ya que gracias a esto puedo tomar las criticas de forma constructiva, generando una facilidad para trabajar en equipo. </br>
+									Me considero una persona ágil para aprender, además de que soy algo autodidacta
+									cuando se trata de algo que me llame mucho la atencion.</p>
 									<div class="col-md-4 col-xs-4 profile-grids"> 
 										<i class="fa fa-user"></i>
 										<h5>Información Personal</h5>
@@ -79,7 +81,10 @@
 					<div class="container">  
 						<div class="col-md-12 skills-w3lsleft">
 							<h3 class="agileits-title">Mis Habilidades</h3> 
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse laoreet sem sit amet dolor luctus pellentesque. Pellentesque eleifend tellus at interdum elementum. Nam egestas molestie elit. Vivamus sed accumsan quam, a mollis magna. Nam aliquet eros eget sapien consequat tincidunt at vel nibh. Duis ut turpis mi. Duis nec scelerisque urna, sit amet varius arcu. Aliquam aliquet sapien quis mauris semper suscipit.</p>
+							<p>Soy una persona a la que le gusta llevar una buena conversacion con las personas ya que gracias a esto puedo tomar las criticas de forma constructiva, generando una facilidad para trabajar en equipo. </br>
+							Me considero una persona ágil para aprender, además de que soy algo autodidacta
+							cuando se trata de algo que me llame mucho la atencion.
+							</p>
 							<div class="skill-agileinfo">
 								<div class="skillbar" data-percent="60">
 									<span class="skillbar-title" style="background: #d35400;">HTML5</span>
@@ -128,15 +133,17 @@
 									<div class="panel-heading" role="tab" id="headingOne">
 										<h4 class="panel-title asd">
 											<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-												<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> 2017-2018
+												<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> 2021
 											</a>
 										</h4>
 									</div>
 									<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
 										<div class="panel-body panel_text">
-											<h5>Fruver La Pastora</h5>
-											Trabaje con distintos cargos como impulsador, surtidor, cajero, y jefe de compras.
-											Gracias al tiempo que pase allí tengo un buen manejo del servicio al cliente.
+											<h5>Soluciones Informaticas Kodigo Fuente S.A.S </h5>
+											Ha sido un trabajo en el que he ido puliendo mis forma de programar, teniendo oportunidad de crear
+											un proyecto en Codeigniter para la administración de precios de costo de productos.
+											Tambien he tenido oportunidad de estar en la mesa de soporte, dando guias y solución a los inconvenientes
+											que tengan relacionados a el software de facturación que provee la empresa.
 										</div>
 									</div>
 								</div>
@@ -161,17 +168,15 @@
 									<div class="panel-heading" role="tab" id="headingThree">
 										<h4 class="panel-title asd">
 											<a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-											<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> 2021
+											<span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i> 2017-2018
 											</a>
 										</h4>
 									</div>
 									<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 										<div class="panel-body panel_text">
-											<h5>Soluciones Informaticas Kodigo Fuente S.A.S </h5>
-											Ha sido un trabajo en el que he ido puliendo mis forma de programar, teniendo oportunidad de crear
-											un proyecto en Codeigniter para la administración de precios de costo de productos.
-											Tambien he tenido oportunidad de estar en la mesa de soporte, dando guias y solución a los inconvenientes
-											que tengan relacionados a el software de facturación que provee la empresa.
+											<h5>Fruver La Pastora</h5>
+											Trabaje con distintos cargos como impulsador, surtidor, cajero, y jefe de compras.
+											Gracias al tiempo que pase allí tengo un buen manejo del servicio al cliente.
 										</div>
 									</div>
 								</div>
@@ -209,8 +214,8 @@
 									</a>  
 								</div>
 								<div class="col-md-6 col-sm-6 col-xs-6 agileits-img"> 
-									<a href="<?php echo base_url().'/spotifyApi'?>" target="_blank">
-										<img src="images/G2.jpg" alt="" class="img-responsive" />
+									<a href="<?php echo base_url().'/spotifyApi'?>">
+										<img src="images/Gw2.png" alt="" class="img-responsive" />
 										<div class="wthree-pcatn">
 											<h4>SPOTIFY</h4>  
 										</div> 
